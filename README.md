@@ -1,12 +1,12 @@
 # Cấu hình IP tĩnh động trên Ubuntu
 ========
 
--[Mục lục] (#content)
-<ul>
-<li> [1.Cấu hình IP tĩnh áp trên Ubuntu](#ubuntu1) </li>
-<li> [2.Cấu hình IP động áp trên Ubuntu](#ubuntu2) </li>
-<li> [3.lời cảm ơn](#tks) </li>
-</ul>
+[Mục lục] (#content)
+
+ [1.Cấu hình IP tĩnh áp trên Ubuntu](#ubuntu1)
+ [2.Cấu hình IP động áp trên Ubuntu](#ubuntu2) 
+ [3.lời cảm ơn](#tks)
+
 
 <a name="ubuntu1"></a>
 ## 1.Cấu hình IP tĩnh trên Ubuntu
