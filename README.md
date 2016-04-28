@@ -3,9 +3,9 @@
 
 -[Mục lục] (#content)
 <ul>
-<li> [1.Cấu hình IP tĩnh áp trên Ubuntu] (#ubuntu1)
-<li> [2.Cấu hình IP động áp trên Ubuntu] (#ubuntu2)
-<li> [3.lời cảm ơn] (#tks)
+<li> [1.Cấu hình IP tĩnh áp trên Ubuntu](#ubuntu1)
+<li> [2.Cấu hình IP động áp trên Ubuntu](#ubuntu2)
+<li> [3.lời cảm ơn](#tks)
 </ul>
 
 <a name="ubuntu1"></a>
@@ -19,7 +19,7 @@ Tiếp theo , nhập vào lệnh sau  :  ``sudo nano /etc/network/interfaces`` v
 
 <img src=http://i.imgur.com/9GOEMVw.png>
 
-chương trình sẽ xuất hiện nội dung như thế này
+Chương trình sẽ xuất hiện nội dung như thế này
 
 <img src=http://i.imgur.com/v2Pbp5d.png>
 
@@ -39,7 +39,7 @@ Nhấn **Ctrl + O** để **Save** lại và **Ctrl + X** để **Exit**
 
 Sau đó bạn restart lại bằng câu lệnh sau :   ``sudo /etc/init.d/networking restart``
 
-Như vậy bạn đã thiết lập thành công địa chỉ IP tĩnh của bạn
+Như vậy bạn đã thiết lập thành công địa chỉ IP tĩnh của bạn.
 
 Để kiểm tra lại kết quả Config bạn sử dụng lệnh sau :  ``ifconfig``
 
