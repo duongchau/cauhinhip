@@ -5,6 +5,7 @@
 <ul>
 <li> [1.Cấu hình IP tĩnh áp trên Ubuntu] (#ubuntu1)
 <li> [2.Cấu hình IP động áp trên Ubuntu] (#ubuntu2)
+<li> [3.lời cảm ơn] (#tks)
 </ul>
 
 <a name="ubuntu1"></a>
@@ -46,4 +47,25 @@ Như vậy bạn đã thiết lập thành công địa chỉ IP tĩnh của b�
 
 <a name="ubuntu2"></a>
 ## 2.Cấu hình IP động áp trên Ubuntu
+
+Dùng lệnh  ``ifconfig -a | grep eth`` để xem máy có bao nhiêu card mạng
+
+<img src=http://i.imgur.com/Ohh0X7G.png>
+Để xem cấu hình card mạng ``ifconfig``
+
+<img src=http://i.imgur.com/ibbc3SI.png>
+
+Tiếp tục dùng lệnh  ``sudo nano /etc/network/interfaces`` và nhập ``password`` của bạn vào
+
+<img src=http://i.imgur.com/gSc4Hb6.png>
+
+Sau đó reboot hoặc restart dịch vụ mạng
+
+ ``# sudo reboot``
+``# sudo /etc/init.d/networking restart``
+
+<a name="tks"></a>
+## 3.Lời cảm ơn
+Cảm ơn các bạn đã đọc hết bài viết này. Tôi hoan nghênh mọi ý kiến đóng, góp xin hãy post lên blog của tôi hoặc có thể commit lên github này.
+
 
