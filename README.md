@@ -3,11 +3,11 @@
 
 [Mục lục] (#content)
 
- -[1.Cấu hình IP tĩnh áp trên Ubuntu](#ubuntu1)
+ [1.Cấu hình IP tĩnh áp trên Ubuntu](#ubuntu1)
  
- -[2.Cấu hình IP động áp trên Ubuntu](#ubuntu2) 
+ [2.Cấu hình IP động áp trên Ubuntu](#ubuntu2) 
  
- -[3.lời cảm ơn](#tks)
+ [3.lời cảm ơn](#tks)
 
 
 <a name="ubuntu1"></a>
