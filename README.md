@@ -3,9 +3,9 @@
 
 -[Mục lục] (#content)
 <ul>
-<li> [1.Cấu hình IP tĩnh áp trên Ubuntu](#ubuntu1)
-<li> [2.Cấu hình IP động áp trên Ubuntu](#ubuntu2)
-<li> [3.lời cảm ơn](#tks)
+<li> [1.Cấu hình IP tĩnh áp trên Ubuntu](#ubuntu1) </li>
+<li> [2.Cấu hình IP động áp trên Ubuntu](#ubuntu2) </li>
+<li> [3.lời cảm ơn](#tks) </li>
 </ul>
 
 <a name="ubuntu1"></a>
