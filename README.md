@@ -53,6 +53,7 @@ Như vậy bạn đã thiết lập thành công địa chỉ IP tĩnh của b�
 Dùng lệnh  ``ifconfig -a | grep eth`` để xem máy có bao nhiêu card mạng
 
 <img src=http://i.imgur.com/Ohh0X7G.png>
+
 Để xem cấu hình card mạng ``ifconfig``
 
 <img src=http://i.imgur.com/ibbc3SI.png>
